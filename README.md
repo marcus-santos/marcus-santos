@@ -27,5 +27,5 @@
 ### My Social Media
 <div>
   <a href="https://www.instagram.com/marcus.csantos?igsh=MWs0dW5ka2w1ZnJwYw=="><img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="www.linkedin.com/in/marcus-vinicius-csantos"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/marcus-vinicius-csantos"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
