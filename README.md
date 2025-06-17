@@ -43,7 +43,7 @@ I’ve worked on:
   *Compilation of tons of Java programming exercises and lessons from college.*
 
 - [`personal-ai-portfolio`](https://github.com/marcus-santos/personal-ai-portfolio)  
-  *My own portfolio integrated with AI-powered assistant that introduces and interacts with visitors about my career, projects, and skills. *
+  *My own portfolio integrated with AI-powered assistant that introduces and interacts with visitors about my career, projects, and skills.*
 
 ---
 
