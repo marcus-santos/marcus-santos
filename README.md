@@ -36,10 +36,10 @@ I’ve worked on:
 
 ### 📌 Featured Projects
 
-- [`Arteiros Caraguá`](https://https://github.com/marcus-santos/artesaos-project-frontend)  
+- [`Arteiros Caraguá`](https://github.com/marcus-santos/artesaos-project-frontend)  
   *A platform to promote and sell handmade products from local artisans in Caraguatatuba.*
 
-- [`ifsp-java-exercises`](https://https://github.com/marcus-santos/ifsp-java-exercises)  
+- [`ifsp-java-exercises`](https://github.com/marcus-santos/ifsp-java-exercises)  
   *Compilation of tons of Java programming exercises and lessons from college.*
 
 - [`personal-ai-portfolio`](https://github.com/marcus-santos/personal-ai-portfolio)  
