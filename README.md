@@ -42,7 +42,7 @@ I’ve worked on:
 - [`ifsp-java-exercises`](https://https://github.com/marcus-santos/ifsp-java-exercises)  
   *Compilation of tons of Java programming exercises and lessons from college.*
 
-- [`personal-ai-portfolio`](https://github.com/SEU-USUARIO/ifsp-java-exercises)  
+- [`personal-ai-portfolio`](https://github.com/marcus-santos/personal-ai-portfolio)  
   *My own portfolio integrated with AI-powered assistant that introduces and interacts with visitors about my career, projects, and skills. *
 
 ---
