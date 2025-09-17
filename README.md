@@ -39,8 +39,8 @@ I’ve worked on:
 - [`Arteiros Caraguá`](https://github.com/marcus-santos/artesaos-project-frontend)  
   *A platform to promote and sell handmade products from local artisans in Caraguatatuba.*
 
-- [`ifsp-java-exercises`](https://github.com/marcus-santos/ifsp-java-exercises)  
-  *Compilation of tons of Java programming exercises and lessons from college.*
+- [`Trilha Interativa`](https://github.com/marcus-santos/hono-api-worker-fork)  
+  *An interactive trail app.*
 
 - [`personal-ai-portfolio`](https://github.com/marcus-santos/personal-ai-portfolio)  
   *My own portfolio integrated with AI-powered assistant that introduces and interacts with visitors about my career, projects, and skills.*
